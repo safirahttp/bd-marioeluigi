@@ -4,4 +4,4 @@
 Vamos elaborar um diagrama para uma seguradora de automóveis. </h4>
 
 ## Como eu resolvi isso?
-<h4> Criei as entidades que foram pedidas no enunciado e especifiqueis os atributos de cada uma. Nas entidades também especifiqueis os tipos de apólices como foi explicado pelo professor que devia ser feito. Fiz a ligação entre cada relacionamento e entidade conforme </h4>
+<h4> Criei as entidades que foram pedidas no enunciado e especifiqueis os atributos de cada uma. Nas entidades também especifiqueis os tipos de apólices como foi explicado pelo professor que devia ser feito. Fiz a ligação entre cada relacionamento e entidade com dados importantes e formas fáceis de ser organizado e encontrado no banco como as id's e as chaves. Com as atributos de cada entidade fica fácil de se encontrar os dados de quem ou do que se está precisando. </h4>
